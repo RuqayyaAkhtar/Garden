@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/garden/static/css/main.679606b6.css",
+    "main.js": "/garden/static/js/main.5086f16e.js",
+    "static/js/787.bb2660d1.chunk.js": "/garden/static/js/787.bb2660d1.chunk.js",
+    "static/media/banner1.png": "/garden/static/media/banner1.282aea70b1dc42a5a8cc.png",
+    "static/media/bg-n.jpg": "/garden/static/media/bg-n.30f3cbcc27bed0032328.jpg",
+    "static/media/zoom.png": "/garden/static/media/zoom.e96a68d6c36112fee078.png",
+    "static/media/left-leaf.png": "/garden/static/media/left-leaf.1b4837a248514f837a53.png",
+    "static/media/zoom2.png": "/garden/static/media/zoom2.4f5c9da2e3e80157e7be.png",
+    "static/media/right-leaf.png": "/garden/static/media/right-leaf.cff14eac9651b1b5a2ed.png",
+    "static/media/plant3.png": "/garden/static/media/plant3.dbfb2df68270e484b5db.png",
+    "static/media/img4.png": "/garden/static/media/img4.27d2fe5881a34488eb70.png",
+    "static/media/img1.png": "/garden/static/media/img1.c92b9a5e31693c38fd7d.png",
+    "static/media/leaf-design.png": "/garden/static/media/leaf-design.f793ff6c5c7c8c61221c.png",
+    "static/media/c2.jpg": "/garden/static/media/c2.cc95507bb7eb1598e88b.jpg",
+    "static/media/c4.jpg": "/garden/static/media/c4.7a9f6aa258dcc217db43.jpg",
+    "static/media/rev-logo.png": "/garden/static/media/rev-logo.4880aab73e69156bbccf.png",
+    "static/media/c1.jpg": "/garden/static/media/c1.56b058d4651a54723f07.jpg",
+    "static/media/c3.jpg": "/garden/static/media/c3.e0b9e7b62e5320e4819d.jpg",
+    "static/media/Image4.png": "/garden/static/media/Image4.1a49fbe6b12d998210b4.png",
+    "static/media/Image10.png": "/garden/static/media/Image10.ca05b7fd4e4e1e037a87.png",
+    "static/media/Image8.png": "/garden/static/media/Image8.2e97ab52ab7a5c7d14a3.png",
+    "static/media/Image2.png": "/garden/static/media/Image2.64c1948f33836e82bd8f.png",
+    "index.html": "/garden/index.html",
+    "main.679606b6.css.map": "/garden/static/css/main.679606b6.css.map",
+    "main.5086f16e.js.map": "/garden/static/js/main.5086f16e.js.map",
+    "787.bb2660d1.chunk.js.map": "/garden/static/js/787.bb2660d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.679606b6.css",
+    "static/js/main.5086f16e.js"
+  ]
+}
